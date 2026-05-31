@@ -1,2 +1,2 @@
-# melodian.ai
+# melodian
 ops
